@@ -58,7 +58,7 @@ most of your investment in the Python community.
     <thead style="position: sticky; top: 90px" class="thead-dark">
         <tr>
             <th scope="col"></t>
-            <th scope="col">The Lone Star Package   $50,000</th>
+            <th scope="col">Lone Star   $50,000</th>
             <th scope="col">Platinum   $25,000</th>
             <th scope="col">Diamond   $10,000</th>
             <th scope="col">Gold   $5,000</th>
@@ -73,7 +73,7 @@ most of your investment in the Python community.
             <td>1</td>
             <td>2</td>
             <td>4</td>
-            <td>∞</td>
+            <td>4</td>
             <td>∞</td>
             <td>∞</td>
             <td>∞</td>
@@ -153,7 +153,7 @@ most of your investment in the Python community.
             <td>2</td>
             <td>1</td>
             <td>1</td>
-            <td></td>
+            <td>1/2</td>
             <td></td>
             <td></td>
             <td></td>
@@ -246,7 +246,7 @@ most of your investment in the Python community.
 PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis (add-ons available to sponsors at Gold tier or above):
 
 - **T-Shirt Sponsor ($10,000)**
-    - Two sponsorships available
+    - Add-on, included in Lone Star package.
     - Company logo on sleeve of official conference tshirt
     - 10 free t-shirts
 - **Video Sponsor ($5,000)**
