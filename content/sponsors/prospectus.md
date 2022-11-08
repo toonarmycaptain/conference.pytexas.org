@@ -121,7 +121,7 @@ most of your investment in the Python community.
         <tr>
             <th scope="row">Optional “Is Hiring” indicator with link on website</th>
             <td>✓</td>
-            <td>✓</td>f
+            <td>✓</td>
             <td>✓</td>
             <td>✓</td>
             <td></td>
