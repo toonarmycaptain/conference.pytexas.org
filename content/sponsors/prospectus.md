@@ -246,7 +246,7 @@ most of your investment in the Python community.
 PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis (add-ons available to sponsors at Gold tier or above):
 
 - **T-Shirt Sponsor ($10,000)**
-    - Two sponsorships available
+    - Add-on, included in Lone Star package.
     - Company logo on sleeve of official conference tshirt
     - 10 free t-shirts
 - **Video Sponsor ($5,000)**
