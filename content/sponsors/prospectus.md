@@ -73,7 +73,7 @@ most of your investment in the Python community.
             <td>1</td>
             <td>2</td>
             <td>4</td>
-            <td>∞</td>
+            <td>4</td>
             <td>∞</td>
             <td>∞</td>
             <td>∞</td>
@@ -109,7 +109,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Plain text acknowlegement on Website</td>
+            <th scope="row">Plain text acknowledgement on Website</td>
             <td></td>
             <td></td>
             <td></td>
@@ -153,7 +153,7 @@ most of your investment in the Python community.
             <td>2</td>
             <td>1</td>
             <td>1</td>
-            <td></td>
+            <td>1/2</td>
             <td></td>
             <td></td>
             <td></td>
